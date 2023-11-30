@@ -1,2 +1,2 @@
-# gretl_cheatsheet
-A cheat sheet for the statistics &amp; econometrics software gretl and its scripting language hansl
+# Gretl cheatsheet
+Collection of cheat sheets for the statistics &amp; econometrics software Gretl and its scripting language hansl.
